@@ -1,2 +1,5 @@
-# test
-simple hello world code in golang
+package main
+import "fmt"
+func main() {
+fmt.Println("hello world")
+}
