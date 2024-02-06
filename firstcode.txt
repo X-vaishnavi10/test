@@ -4,5 +4,4 @@ func main() {
 fmt.Println("vaishnavi")
 fmt.Println("hello world")
 fmt.Println("hhello")
-fmt.Println("This is fork repo")
 }
